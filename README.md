@@ -34,6 +34,9 @@ Copy code
   "trigger": "sm",
   "video": "https://i.imgur.com/tFVhdez.mp4"
 }
+
+---
+
 📁 Project Structure
 Copy code
 
@@ -42,6 +45,9 @@ video-api/
 ├── data.json
 ├── package.json
 └── README.md
+
+---
+
 🗂 data.json Format
 Copy code
 Json
@@ -57,6 +63,9 @@ Json
     "king": [],
     "shourov": []
   }
+
+---
+
 }
 🚀 Installation
 Copy code
@@ -86,12 +95,3 @@ Give credit if you use it ❤️
 Copy code
 
 ---
-
-## ✅ আপনি চাইলে আমি আরো যোগ করতে পারি:
-- 🔐 Admin UID section  
-- 🤖 Bot integration code  
-- 🌍 Render / Railway hosting guide  
-- 📦 Auto add API (`/add?trigger=sm&url=...`)  
-- 🎨 Emoji styled banner  
-
-👉 বলুন, **আর কী কী add করবেন?** 😌
